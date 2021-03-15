@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">2ndlab</string>
+    <string-array name="Arthematic_op">
+        <item>Addition</item>
+        <item>Subtraction</item>
+        <item>Multiplication</item>
+        <item>Division</item>
+    </string-array>
+</resources>
